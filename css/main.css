@@ -121,9 +121,6 @@ body {
     height: 250vh;
     background-color: #000;
     display: none;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     cursor:pointer;
 }
 
